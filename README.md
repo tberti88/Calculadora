@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/pypi/pyversions/Django"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
-  <img src="https://img.shields.io/pypi/djversions/djangorestframework"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
